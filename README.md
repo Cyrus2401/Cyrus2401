@@ -29,7 +29,7 @@ I have built:
 
 # ⚡ Tech Stack
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:5px;">
+<p align="left" style="display:flex; flex-wrap:wrap; gap: 7px;">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
