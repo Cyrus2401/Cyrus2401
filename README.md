@@ -1,35 +1,69 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Cyrus HESSOU
-=====================================================================================================================================
+Hi 👋 My name is Cyrus HESSOU
+=====================================================================
 
-Full-stack developer
+Full-stack Developer
 --------------------
 
 I’m a passionate System Developer focused on designing and building reliable, scalable, and high-performance software solutions.
 
-I specialise in full-stack development and have extensive experience in backend and frontend engineering, API design and systems integration. I have developed APIs for integrated services and mobile applications, and have worked on internal systems such as CRM platforms, BI tools and ticketing systems, for which I am involved in both development and maintenance. I design comprehensive web solutions, from database design and backend architecture to frontend interfaces, ensuring performance, scalability and ease of maintenance. Beyond coding, I also take part in technical documentation, code review, project coordination, and user support, which helps me better understand product needs and improve collaboration within teams.
+I specialize in full-stack development with strong experience in backend and frontend engineering, API design, and system integration. I have built APIs for mobile and integrated services, and worked on enterprise systems such as CRM platforms, BI tools, and ticketing systems, covering both development and maintenance.
 
-I’m currently looking for opportunities where I can contribute to impactful projects, grow as a developer, and continue building efficient and scalable digital solutions that create real value.
+I design complete web solutions from database architecture to backend logic and modern frontend interfaces, ensuring performance, scalability, and maintainability.
 
-* 🌍  I'm based in Cotonou, Benin
-* 🖥️  See my portfolio at [cyrus-hessou-portfolio](http://cyrus-hessou-portfolio.vercel.app)
-* ✉️  You can contact me at [cyrushessou@gmail.com](mailto:cyrushessou@gmail.com)
-* 👥  I'm looking to collaborate on scalable digital solutions that create real value.
+Beyond development, I contribute to technical documentation, code reviews, and project coordination, which helps improve collaboration and product quality.
 
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
-</p>
+I’m currently looking for opportunities to contribute to impactful projects and continue growing as a software engineer.
+
+---
+
+- 🌍 Based in Cotonou, Benin  
+- 🖥️ Portfolio: http://cyrus-hessou-portfolio.vercel.app  
+- ✉️ Contact: mailto:cyrushessou@gmail.com  
+- 🤝 Open to collaborations on scalable digital solutions  
+
+---
+
+### Tech Stack
+
+<div style="display:flex; flex-wrap:wrap; gap:2px;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="36" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="36" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" />
+
+</div>
+
+---
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Cyrus2401" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/Cyrus_Jr24" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="http://www.medium.com/@cyrushessou" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.dev.to/chessou" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.linkedin.com/in/yao-cyrus-junior-hessou-b6a58122b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Cyrus2401" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Cyrus2401?logo=github&style=for-the-badge&color=444e59&labelColor=1c1917" /></a>
-### Badges
+<p align="left">
+<a href="https://github.com/Cyrus2401">GitHub</a> •
+<a href="https://www.linkedin.com/in/yao-cyrus-junior-hessou-b6a58122b">LinkedIn</a> •
+<a href="http://www.medium.com/@cyrushessou">Medium</a> •
+<a href="https://www.dev.to/chessou">DEV.to</a> •
+<a href="https://x.com/Cyrus_Jr24">X</a>
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Cyrus2401"><img src="https://github-readme-stats.vercel.app/api?username=Cyrus2401&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=444e59&bg_color=1c1917&hide_border=true&show_icons=true" alt="Cyrus2401's GitHub stats" /></a>
+### GitHub Stats
 
-<a href="http://www.github.com/Cyrus2401"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyrus2401&stroke=64748b&background=1c1917&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="https://github.com/Cyrus2401" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus2401&langs_count=10&title_color=64748b&text_color=64748b&icon_color=444e59&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Cyrus2401">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyrus2401&show_icons=true&hide=prs,contribs&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&hide_border=true" />
+</a>
