@@ -6,13 +6,9 @@
 
 ## 💡 About Me
 
-I’m a passionate developer focused on building scalable and reliable software solutions.
+I specialise in full-stack development and have extensive experience in backend and frontend engineering, API design and systems integration. I have developed APIs for integrated services and mobile applications, and have worked on internal systems such as CRM platforms, BI tools and ticketing systems, for which I am involved in both development and maintenance. I design comprehensive web solutions, from database design and backend architecture to frontend interfaces, ensuring performance, scalability and ease of maintenance. Beyond coding, I also take part in technical documentation, code review, project coordination, and user support, which helps me better understand product needs and improve collaboration within teams.
 
-I specialize in:
-- Backend development
-- API design
-- System integration
-- CRM & internal tools
+I’m currently looking for opportunities where I can contribute to impactful projects, grow as a developer, and continue building efficient and scalable digital solutions that create real value.
 
 ---
 
@@ -20,7 +16,8 @@ I specialize in:
 
 - 📍 Cotonou, Benin  
 - 📧 <a href="mailto:cyrushessou@gmail.com" target="_blank">Email</a>  
-- 🌐 <a href="http://cyrus-hessou-portfolio.vercel.app" target="_blank">Portfolio</a>  
+- 🌐 <a href="http://cyrus-hessou-portfolio.vercel.app" target="_blank">Portfolio</a>
+- 👥  I'm looking to collaborate on scalable digital solutions that create real value.
 
 ---
 
