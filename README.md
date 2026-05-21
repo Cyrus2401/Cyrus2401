@@ -4,16 +4,6 @@
 
 ---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-##
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyrus2401&show_icons=true)
-
 ## 💡 About Me
 
 I specialise in full-stack development and have extensive experience in backend and frontend engineering, API design and systems integration. I have developed APIs for integrated services and mobile applications, and have worked on internal systems such as CRM platforms, BI tools and ticketing systems, for which I am involved in both development and maintenance. I design comprehensive web solutions, from database design and backend architecture to frontend interfaces, ensuring performance, scalability and ease of maintenance. Beyond coding, I also take part in technical documentation, code review, project coordination, and user support, which helps me better understand product needs and improve collaboration within teams.
