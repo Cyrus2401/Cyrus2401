@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
 I specialise in full-stack development and have extensive experience in backend and frontend engineering, API design and systems integration. I have developed APIs for integrated services and mobile applications, and have worked on internal systems such as CRM platforms, BI tools and ticketing systems, for which I am involved in both development and maintenance. I design comprehensive web solutions, from database design and backend architecture to frontend interfaces, ensuring performance, scalability and ease of maintenance. Beyond coding, I also take part in technical documentation, code review, project coordination, and user support, which helps me better understand product needs and improve collaboration within teams.
 
@@ -12,16 +12,16 @@ I’m currently looking for opportunities where I can contribute to impactful pr
 
 ---
 
-## 🌍 Info
+## Info
 
 - 📍 Cotonou, Benin  
 - 📧 <a href="mailto:cyrushessou@gmail.com" target="_blank">Email</a>  
 - 🌐 <a href="http://cyrus-hessou-portfolio.vercel.app" target="_blank">Portfolio</a>
-- 👥  I'm looking to collaborate on scalable digital solutions that create real value.
+- 👥 I'm looking to collaborate on scalable digital solutions that create real value.
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="left">
 
@@ -47,7 +47,7 @@ I’m currently looking for opportunities where I can contribute to impactful pr
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <p align="left">
 
