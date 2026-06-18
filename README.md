@@ -17,7 +17,7 @@ I’m currently looking for opportunities where I can contribute to impactful pr
 - 📍 Cotonou, Benin  
 - 📧 <a href="mailto:cyrushessou@gmail.com" target="_blank">cyrushessou@gmail.com</a>
 - 📱 +229 01 61 01 78 28
-- 🌐 <a href="http://cyrus-hessou-portfolio.vercel.app" target="_blank">Portfolio</a>
+- 🌐 <a href="https://cyrushessou.vercel.app/" target="_blank">Portfolio</a>
 - I'm looking to collaborate on scalable digital solutions that create real value.
 
 ---
