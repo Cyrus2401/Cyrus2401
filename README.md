@@ -1,6 +1,6 @@
 # Hi 👋 I'm Cyrus HESSOU
 
-## Full-Stack Developer | System & API Engineer
+## Systems & API Engineer | Systems Developer | BSS/OSS Engineer
 
 ---
 
